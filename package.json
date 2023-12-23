@@ -1,0 +1,25 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Generate HTML file to display a team",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eplp/team-profile-generator.git"
+  },
+  "author": "Edgardo Pina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eplp/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/eplp/team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  }
+}
